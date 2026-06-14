@@ -15,13 +15,13 @@ Super Market Sales/
 ├── SuperMarket Analysis.csv    # Main dataset with sales transactions
 ├── SuperMarket Analysis.pbix   # Power BI dashboard
 ├── README.md                    # This file
-└── images/
-    └── dashboard-screenshot.png # Dashboard preview
+├── image.png                    # Dashboard screenshot
+└── images/                      # Additional images (if needed)
 ```
 
 ## 📸 Dashboard Preview
 
-![Supermarket Sales Dashboard](images/dashboard-screenshot.png)
+![Supermarket Sales Dashboard](image.png)
 
 _The Power BI dashboard displays key metrics, sales trends, customer insights, and performance analytics across all branches._
 
