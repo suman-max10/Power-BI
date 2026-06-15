@@ -53,12 +53,12 @@ Comprehensive Power BI analysis and visualization of American superstore sales d
 
 ### Sales Analysis Dashboard
 
-![Sales by State and Order Date](../images/sales_by_state_and_date.png)
+![Sales by State and Order Date](image.png)
 _Comprehensive view of sales trends by state and order date with time-series analysis spanning from January 2019 to January 2021_
 
 ### Super Store Sales Dashboard
 
-![Super Store Sales Overview](../images/superstore_sales_dashboard.png)
+![Super Store Sales Overview](image2.png)
 _Key performance indicators including total sales of 1.6M, inventory metrics, profit trends by month, sales segmentation, and product category breakdown_
 
 ## Files
