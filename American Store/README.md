@@ -1,22 +1,8 @@
 <!-- @format -->
 
-# Power BI Analysis Projects
+# American Store Sales Analysis
 
-This workspace contains multiple Power BI projects and datasets for retail sales analysis.
-
-## Projects
-
-### American Store
-
-- **Dataset**: `SuperStore_Sales_Dataset.csv`
-- **Power BI File**: `American Super Store.pbix`
-- Analysis and visualization of American store sales data
-
-### Super Market Sales
-
-- **Dataset**: `SuperMarket Analysis.csv`
-- **Documentation**: `README.md` (in folder)
-- Analysis and visualization of supermarket sales data
+Comprehensive Power BI analysis and visualization of American superstore sales data covering 2019 transactions.
 
 ## Datasets
 
